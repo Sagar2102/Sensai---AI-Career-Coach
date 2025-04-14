@@ -1,4 +1,65 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 🌟 Sensai – AI Career Coach
+
+**Sensai** is a smart, AI-powered career development platform built to help users achieve their professional goals. Whether you're a student, job seeker, or a professional looking to pivot, Sensai provides personalized career guidance, resume assistance, interview preparation, and real-time industry insights — all under one intuitive dashboard.
+
+---
+
+## 🚀 Live Demo
+
+🔗 [View Live Project](https://sensai-ai-career-coach-psi.vercel.app/)  
+
+---
+
+## 🧠 Why Sensai?
+
+Tired of generic job advice and outdated prep tools? **Sensai** empowers you with:
+- Tailored career paths
+- Role-specific mock interviews with AI feedback
+- ATS-compliant resume builder
+- Current job market and salary trends
+- Analytics to track your career growth
+
+---
+
+## ✨ Features
+
+- 🔍 AI-Powered Career Guidance – Get career advice based on your field, experience, and goals.
+- 📄 Smart Resume Builder – Create and optimize professional, ATS-friendly resumes in minutes.
+- 🧠 Mock Interview Simulator – Prepare with AI-driven questions and real-time feedback.
+- 📝 AI Cover Letter Generation – Instantly generate personalized, professional cover letters tailored to the job role.
+- 📊 Live Industry Insights – Stay ahead with up-to-date salary info, demand graphs, and skill gaps.
+- 📈 Career Progress Tracker – Analyze improvements with performance reports.
+- 💬 24/7 AI Assistant – Get help, advice, and quick answers any time.
+
+---
+
+## 🖼️ Screenshots
+
+> Replace the following paths with actual screenshot links/images.
+
+### 🏠 Landing Page  
+![Landing](https://res.cloudinary.com/dkk2rer7z/image/upload/v1744666070/Screenshot_2025-04-15_025110_g51tcx.png)
+
+### 📊 Industry Insights 
+![Dashboard](https://res.cloudinary.com/dkk2rer7z/image/upload/v1744666071/Screenshot_2025-04-15_025355_e17joa.png)
+
+### 📄 Resume Builder  
+![Resume Builder](https://res.cloudinary.com/dkk2rer7z/image/upload/v1744666071/Screenshot_2025-04-15_025608_tdxgfn.png)
+
+### 🎯 Interview Preparation 
+![Interview](https://res.cloudinary.com/dkk2rer7z/image/upload/v1744666074/Screenshot_2025-04-15_025647_k03c1r.png)
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend**: [Next.js](https://nextjs.org/), [Tailwind CSS](https://tailwindcss.com/)
+- **Backend & Database**: [Neon](https://neon.tech/) , [Prisma](https://www.prisma.io/)
+- **UI Components**: [Shadcn UI](https://ui.shadcn.com/)
+- **Authentication**: [Clerk](https://clerk.dev/)
+- **AI Integration**: [Gemini API](https://ai.google.dev/gemini-api)
+- **Task Scheduling**: [Inngest](https://www.inngest.com/) for cron jobs
+
 
 ## Getting Started
 
@@ -14,23 +75,24 @@ pnpm dev
 bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+## 🤝 Contribution
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+We welcome contributions! To contribute:
 
-## Learn More
+1. Fork the repository
+2. Create your feature branch (`git checkout -b feature/YourFeature`)
+3. Commit your changes (`git commit -m 'Add feature'`)
+4. Push to the branch (`git push origin feature/YourFeature`)
+5. Open a Pull Request
 
-To learn more about Next.js, take a look at the following resources:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 👨‍💻 Developed By
 
-## Deploy on Vercel
+**Sagar**  
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+---
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
