@@ -39,9 +39,6 @@ Tired of generic job advice and outdated prep tools? **Sensai** empowers you wit
 
 ### 🏠 Landing Page  
 ![Landing](https://res.cloudinary.com/dkk2rer7z/image/upload/v1744666070/Screenshot_2025-04-15_025110_g51tcx.png)
-![Landing](https://res.cloudinary.com/dkk2rer7z/image/upload/v1744666071/Screenshot_2025-04-15_025143_lwrcnx.png)
-![Landing](https://res.cloudinary.com/dkk2rer7z/image/upload/v1744666070/Screenshot_2025-04-15_025209_kdcyhf.png)
-![Landing](https://res.cloudinary.com/dkk2rer7z/image/upload/v1744666072/Screenshot_2025-04-15_025232_uwgmfk.png)
 
 
 ### 📊 Industry Insights 
